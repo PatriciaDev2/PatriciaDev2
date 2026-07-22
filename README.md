@@ -1,74 +1,59 @@
-# Hi, I'm Patricia Jimenez 👋
+# Patricia Jimenez
 
-### Full Stack Developer | AI Applications | Cybersecurity Student
+Full Stack Developer | React • Next.js • React Native
 
-I'm a developer passionate about building applications that solve real-world problems. I'm currently creating AI-powered apps, modern business websites, and software for the hospitality industry while expanding my cybersecurity skills.
+I design and build modern web and mobile applications focused on usability, automation, and solving real-world problems. My work includes AI-powered applications, business solutions, and digital products from concept to deployment.
 
----
+## Projects
 
-## 🚀 Current Projects
+### DoKissGlow
 
-### 🌸 DoKissGlow
-AI-powered skincare application built with React Native.
+AI-powered skincare application designed to deliver personalized skincare recommendations through an interactive mobile experience.
 
-### 🍸 Smart Pour POS
-Inventory and liquor management system designed for bars.
-
-### 💼 Business Websites
-Creating responsive websites for local businesses using Next.js and React.
-
-### 🔐 Cybersecurity Labs
-Hands-on networking, Linux, Python, and security projects.
+**Built with:** React Native • JavaScript • AI Integration
 
 ---
 
-## 💻 Tech Stack
+### Smart Pour POS
+
+Hospitality technology platform designed to improve inventory tracking, beverage management, and operational efficiency for bars and restaurants.
+
+**Built with:** React • Next.js • Backend APIs
+
+---
+
+### Business Web Solutions
+
+Modern responsive websites created for businesses to improve their online presence, customer experience, and digital growth.
+
+**Built with:** Next.js • React • Responsive Design
+
+---
+
+## Technical Skills
 
 **Frontend**
-- React
-- Next.js
-- React Native
-- HTML5
-- CSS3
-- JavaScript
+React • Next.js • React Native • JavaScript • TypeScript • HTML • CSS
 
 **Backend**
-- Node.js
-- Express.js
-
-**Databases**
-- Firebase
-- PostgreSQL
+Node.js • APIs • Firebase • PostgreSQL
 
 **Tools**
-- Git
-- GitHub
-- VS Code
-- Figma
+Git • GitHub • VS Code • Figma
+
+**Focus Areas**
+Full-Stack Development • AI Applications • Automation • Cybersecurity
 
 ---
 
-## 🌱 Currently Learning
+## Professional Goals
 
-- Cybersecurity
-- AWS
-- Python
-- Linux
-- API Development
+Building impactful software products, developing secure applications, and creating technology solutions that help businesses grow.
 
 ---
 
-## 🎯 2026 Goals
+## Connect
 
-- Launch DoKissGlow
-- Finish Smart Pour POS MVP
-- Build websites for local businesses
-- Grow my cybersecurity portfolio
-- Land a software engineering role
+LinkedIn: https://www.linkedin.com/in/patricia-jimenezdev/
 
----
-
-## 📫 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/patricia-jimenezdev/
-- Portfolio: https://cybersecurity-portfolio-umber.vercel.app
+Portfolio: https://cybersecurity-portfolio-umber.vercel.app
